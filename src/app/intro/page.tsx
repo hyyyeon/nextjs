@@ -18,8 +18,8 @@ export default function IntroPage() {
         <p>연락처 : 010-0000-0000</p>
         <p>
           Link :
-          <Link href="https://github.com" className="text-green-600">
-            Github
+          <Link href="https://github.com/hyyyeon" className="text-green-600">
+            My Github
           </Link>
         </p>
       </div>

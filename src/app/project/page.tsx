@@ -9,14 +9,14 @@ export default function ProjectPage() {
       <div className="bg-gray-200 border border-slate-400 px-4 py-2 rounded-md mb-4">
         <h1 className="text-lg font-bold">HCJ Demo</h1>
         <p>HTML, CSS, Javascript의 종합 활용 예제 </p>
-        <Link href="#" className="text-green-800">
+        <Link href="https://hcjdemo-peach.vercel.app/" className="text-green-800">
           link
         </Link>
       </div>
       <div className="bg-gray-200 border border-slate-400 px-4 py-2 rounded-md mb-4">
         <h1 className="text-lg font-bold">Kiosk</h1>
-        <p>메뉴 주문 키오스크 예제 </p>
-        <Link href="#" className="text-green-800">
+        <p>기말 포트폴리오 </p>
+        <Link href="https://web-portfol.vercel.app/" className="text-green-800">
           link
         </Link>
       </div>
