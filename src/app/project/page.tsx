@@ -14,8 +14,8 @@ export default function ProjectPage() {
         </Link>
       </div>
       <div className="bg-gray-200 border border-slate-400 px-4 py-2 rounded-md mb-4">
-        <h1 className="text-lg font-bold">Kiosk</h1>
-        <p>기말 포트폴리오 </p>
+        <h1 className="text-lg font-bold">기말 포트폴리오</h1>
+        <p>hyyyeon </p>
         <Link href="https://web-portfol.vercel.app/" className="text-green-800">
           link
         </Link>
